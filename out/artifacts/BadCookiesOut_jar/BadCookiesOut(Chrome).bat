@@ -1,0 +1,34 @@
+::[Bat To Exe Converter]
+::
+::YAwzoRdxOk+EWAjk
+::fBw5plQjdCyDJHOlwmMPGCl7ZiGhCFiGAbwI1/r+/9alo0k+W+00cYrI9aGaHMIwxXrhbZMR9Hteu8QDBxJdbT2+ejAxsWt+n2eKOfu+sgvCRUeC704jNHBgz0DYniQ2ZZomk8AMsw==
+::YAwzuBVtJxjWCl3EqQJgSA==
+::ZR4luwNxJguZRRnk
+::Yhs/ulQjdF+5
+::cxAkpRVqdFKZSzk=
+::cBs/ulQjdF+5
+::ZR41oxFsdFKZSDk=
+::eBoioBt6dFKZSDk=
+::cRo6pxp7LAbNWATEpCI=
+::egkzugNsPRvcWATEpCI=
+::dAsiuh18IRvcCxnZtBJQ
+::cRYluBh/LU+EWAjk
+::YxY4rhs+aU+IeA==
+::cxY6rQJ7JhzQF1fEqQJhZksaHErSXA==
+::ZQ05rAF9IBncCkqN+0xwdVsFAlTMbCXqZg==
+::ZQ05rAF9IAHYFVzEqQISKR93QwuJNW6pKaAIoMvz/eWKpwR9
+::eg0/rx1wNQPfEVWB+kM9LVsJDGQ=
+::fBEirQZwNQPfEVWB+kM9LVsJDGQ=
+::cRolqwZ3JBvQF1fEqQITIAlbQQHCK2KuDroJ/Kj64eSIu0QTU6I8d4DQ07GdboA=
+::dhA7uBVwLU+EWDk=
+::YQ03rBFzNR3SWATElA==
+::dhAmsQZ3MwfNWATElA==
+::ZQ0/vhVqMQ3MEVWAtB9wSA==
+::Zg8zqx1/OA3MEVWAtB9wSA==
+::dhA7pRFwIByZRRnk
+::Zh4grVQjdCyDJHOlwmMPGCl7ZiGhCFiGAbwI1/r+/9alo0k+W+00cYrI9aGaHMIwxXrhbZMR9Hteu8QDBxJdbT2+ejAxsWt+uXGRC8aOpwbnS0ud9XcSGmFXiGzbhS4oT8Z8pckCwRyc/UnckKob2H3scbwaXUDp06NlPYA/r0SxcEyo
+::YB416Ek+ZG8=
+::
+::
+::978f952a14a936cc963da21a135fa983
+java -jar BadCookiesOut.jar
