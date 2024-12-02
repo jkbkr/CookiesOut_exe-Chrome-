@@ -2,9 +2,9 @@
 
 ## Currently solves cookie consent banners:
 
-Solves >>> https://www.kdomivolal.eu/
-Solves >>> https://www.mediafire.com/download/gp00z1oqvlmc4pr
-WIP >>> https://icon-icons.com/search/icons/?filtro=google+chrome
+- Solves >>> https://www.kdomivolal.eu/
+- Solves >>> https://www.mediafire.com/download/gp00z1oqvlmc4pr
+- WIP >>> https://icon-icons.com/search/icons/?filtro=google+chrome
 
 ## Warning
 
