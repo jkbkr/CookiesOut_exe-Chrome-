@@ -6,15 +6,13 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
-import java.time.Duration;
 import java.util.List;
 
 //Solves >>> https://www.kdomivolal.eu/
-public class BadCookiesWebSite extends Constructor {
+public class CookieBanner_1 extends Constructor {
 
-    public BadCookiesWebSite(WebDriver driver) {
+    public CookieBanner_1(WebDriver driver) {
         super(driver);
     }
 
@@ -46,14 +44,14 @@ public class BadCookiesWebSite extends Constructor {
 // List of all buttons on the page
         List<WebElement> checkedButtons = driver.findElements(By.xpath("//input[@type='checkbox' and @checked]/following-sibling::span[@class='fc-slider-el']"));
         // Loop through each checked button
-        for (WebElement badCookiesButton : checkedButtons) {
+        for (WebElement button : checkedButtons) {
             // Check if the button is visible and enabled
-            if (badCookiesButton.isDisplayed() && badCookiesButton.isEnabled()) {
+            if (button.isDisplayed() && button.isEnabled()) {
 
                 Actions actions = new Actions(driver);
-                actions.moveToElement(badCookiesButton).perform();
+                actions.moveToElement(button).perform();
 
-                badCookiesButton.click();
+                button.click();
             }
         }
     }

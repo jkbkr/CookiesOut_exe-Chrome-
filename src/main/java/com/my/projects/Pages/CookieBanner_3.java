@@ -5,16 +5,13 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
-import java.time.Duration;
 import java.util.List;
-// TODO >>> BadCookiesWebSite_3 WIP
+// TODO >>> CookieBanner_3 WIP
 //Solves >>> https://icon-icons.com/search/icons/?filtro=google+chrome
-public class BadCookiesWebSite_3 extends Constructor{
+public class CookieBanner_3 extends Constructor{
 
-    public BadCookiesWebSite_3(WebDriver driver) {
+    public CookieBanner_3(WebDriver driver) {
         super(driver);
     }
 
@@ -62,14 +59,14 @@ public class BadCookiesWebSite_3 extends Constructor{
 //label[contains(@class, 'sn-switch')]//input[@type='checkbox']
         List<WebElement> checkedButtons = driver.findElements(By.xpath("//input[@type='checkbox']"));
         // Loop through each checked button //label[contains(@class, 'sn-switch')]//input[@type='checkbox']
-        for (WebElement element : checkedButtons) {
+        for (WebElement button : checkedButtons) {
             // Check if the button is visible and selected
-            if (element.isDisplayed() && element.isSelected()) {
+            if (button.isDisplayed() && button.isSelected()) {
 
                 Actions actions = new Actions(driver);
-                actions.moveToElement(element).perform();
+                actions.moveToElement(button).perform();
 
-                element.click();
+                button.click();
             }
         }
     }
