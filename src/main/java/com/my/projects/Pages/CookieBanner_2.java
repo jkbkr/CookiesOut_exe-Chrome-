@@ -11,10 +11,10 @@ import java.time.Duration;
 import java.util.List;
 
 //Solves >>> https://www.mediafire.com/download/gp00z1oqvlmc4pr
-public class BadCookiesWebSite_2 extends Constructor{
+public class CookieBanner_2 extends Constructor{
 
 
-    public BadCookiesWebSite_2(WebDriver driver) {
+    public CookieBanner_2(WebDriver driver) {
         super(driver);
     }
 
@@ -48,11 +48,11 @@ public class BadCookiesWebSite_2 extends Constructor{
         // List of all checkboxes on the page
         List<WebElement> checkedButtons2 = wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(By.cssSelector("input.ez-cmp-li-checkbox.ez-cmp-checkbox")));
         // Loop through each selected checkbox
-        for (WebElement badCookiesButton2 : checkedButtons2) {
+        for (WebElement button : checkedButtons2) {
             // Check if the checkbox is visible and selected
-            if (badCookiesButton2.isDisplayed() && badCookiesButton2.isSelected()) {
+            if (button.isDisplayed() && button.isSelected()) {
 
-                badCookiesButton2.click();
+                button.click();
             }}}
 
 
