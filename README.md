@@ -10,7 +10,7 @@
 
 - The automatic unchecking currently works only in the default browser tab. 
 
-- It is recommended to run the program from the `.exe` shortcut. >>> (You can move it or copy it anywhere you want)
+- It is recommended to run the program from the `.exe` shortcut. (You can move it or copy it anywhere you want)
 
 ## Overview
 - This is a modified version of the Selenium-based Java program that has been packaged to be executed via an `.exe` shortcut located directly in the project folder. Users no longer need to run the program through an IDE (like IntelliJ IDEA) or worry about setup. With this version, you can simply execute the `.exe` shortcut, and the program will automatically launch the browser, detect cookie consent banners, and uncheck unwanted cookie options while browsing.
