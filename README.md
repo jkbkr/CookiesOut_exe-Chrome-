@@ -36,14 +36,7 @@ Users who want to browse the web without being tracked or bombarded by targeted 
 For users who visit websites with intrusive cookie banners frequently, the program can save time by automatically managing cookie preferences every time they visit these sites, removing the need for manual intervention.
 
 ## User Story
-As a privacy-conscious user, I want a tool that will automatically detect and uncheck all unwanted cookies whenever I visit certain websites, so that I can maintain my privacy without the need to manually adjust cookie settings each time I visit.
-
-## How It Works
-#### - Cookie Detection:
-The program  detects a cookie consent popup on the websites you visit. This includes identifying cookie settings that offer options to accept cookies for tracking, advertising, or analytics.
-
-#### - Automatic Unchecking:
-The program automatically identifies the checkboxes that typically relate to privacy-invasive cookies (such as analytics or marketing cookies) and unchecks them.
+As a privacy-conscious user, I want a tool that will automatically detect and uncheck all unwanted cookies whenever I visit websites, so that I can maintain my privacy without the need to manually adjust cookie settings each time I visit.
 
 ## Requirements
 - **Browser:** Latest version of Chrome.
