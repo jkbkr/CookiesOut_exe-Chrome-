@@ -13,9 +13,11 @@
 - Additionally, if the program has been launched, you will need to either restart your computer or end the task in Task Manager before you can remove or move the program.
 
 ## Overview
-This is a modified version of the Selenium-based Java program that has been packaged to be executed via an `.exe` shortcut located directly in the project folder. Users no longer need to run the program through an IDE (like IntelliJ IDEA) or worry about setup. With this version, you can simply execute the `.exe` shortcut, and the program will automatically launch the browser, detect cookie consent banners, and uncheck unwanted cookie options.
+- This is a modified version of the Selenium-based Java program that has been packaged to be executed via an `.exe` shortcut located directly in the project folder. Users no longer need to run the program through an IDE (like IntelliJ IDEA) or worry about setup. With this version, you can simply execute the `.exe` shortcut, and the program will automatically launch the browser, detect cookie consent banners, and uncheck unwanted cookie options while browsing.
 
-The `.exe` shortcut version makes it easier for non-technical users to run the program without needing to install or configure any development tools.
+- The `.exe` shortcut version makes it easier for non-technical users to run the program without needing to install or configure any development tools.
+
+- You can move the shortcut anywhere on your computer (e.g., your desktop) for quick access to the program.
 
 ## Features:
 
