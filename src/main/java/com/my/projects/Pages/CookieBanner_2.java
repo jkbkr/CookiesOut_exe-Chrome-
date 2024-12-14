@@ -28,7 +28,7 @@ public class CookieBanner_2 extends Constructor{
 //Click on manage settings button (in the desired situation)
     public void setManageSettings(WebElement manageSettings) {
         this.manageSettings = manageSettings;
-        WebElement privacy = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//a[text()='Privacy Policy' and @href='https://www.mediafire.com/policies/privacy_policy.php']")));
+        WebElement privacy = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//a[@href='https://www.mediafire.com/policies/privacy_policy.php']")));
         if(privacy.isDisplayed()&&manageSettings.isDisplayed()){
             manageSettings.click();
         }
