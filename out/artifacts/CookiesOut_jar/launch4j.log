@@ -1,0 +1,20 @@
+
+
+Version:	3.50
+CmdLine:	C:\JAVA_PROJECTS\git_rep\CookiesOut\BCO_exe\CookiesOut_exe(Chrome)\out\artifacts\CookiesOut_jar\CookiesOut(Chrome).exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\JAVA_PROJECTS\git_rep\CookiesOut\BCO_exe\CookiesOut_exe(Chrome)\out\artifacts\CookiesOut_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-21
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\Git\cmd;C:\Users\jakub\AppData\Local\Microsoft\WindowsApps;C:\Users\jakub\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	C:\Program Files\Java\jdk-21;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\Git\cmd;C:\Users\jakub\AppData\Local\Microsoft\WindowsApps;C:\Users\jakub\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_004 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "C:\JAVA_PROJECTS\git_rep\CookiesOut\BCO_exe\CookiesOut_exe(Chrome)\out\artifacts\CookiesOut_jar\CookiesOut(Chrome).exe"
+Args length:	125/32768 chars
+Exit code:	0
