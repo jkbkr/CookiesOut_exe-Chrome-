@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\JAVA_PROJECTS\git_rep\CookiesOut\BCO_exe\CookiesOut_exe(Chrome)\out\artifacts\CookiesOut_jar\BadCookiesOut.jar</jar>
+  <outfile>C:\JAVA_PROJECTS\git_rep\CookiesOut\BCO_exe\CookiesOut_exe(Chrome)\out\artifacts\CookiesOut_jar\CookiesOut(Chrome).exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\JAVA_PROJECTS\git_rep\CookiesOut\BCO_exe\CookiesOut_exe(Chrome)\icon\CookiesOut(Chrome).ico</icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
